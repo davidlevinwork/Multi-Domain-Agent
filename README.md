@@ -41,3 +41,8 @@ using two types of agents: a regular random agent and a "smart" random agent (ba
 <h1 align="center">
   <a><img src="Media/Avoid the Past.png" alt="Markdownify" width="500"></a>
 </h1>
+
+## Running
+The Executor runs with the following commands:
+* for learning phase - python my_executive.py -L <domain_file> <problem_file>
+* for execute phase - python my_executive.py -E <domain_file> <problem_file>
