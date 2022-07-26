@@ -39,5 +39,5 @@ different domains and problems – which led to an unequivocal conclusion (excep
 The decision to use a random agent based on avoid the past principle stemmed from a number of situations in which the agent found himself in an infinite. As a result, the agent took unnecessary actions that led to slower-scale solutions. In order to illustrate the difference, we ran the maze problem in its probabilistic model
 using two types of agents: a regular random agent and a "smart" random agent (based on avoid the past). It can be clearly seen that the number of actions that a "smart" random agent is required to perform in order to solve the problem is lower than the number of actions that a regular random agent performs:
 <h1 align="center">
-  <a><img src="Media/VAvoid the Past.png" alt="Markdownify" width="500"></a>
+  <a><img src="Media/Avoid the Past.png" alt="Markdownify" width="500"></a>
 </h1>
