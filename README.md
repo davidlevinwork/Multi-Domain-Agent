@@ -44,5 +44,5 @@ using two types of agents: a regular random agent and a "smart" random agent (ba
 
 ## Running
 The Executor runs with the following commands:
-* for learning phase - python my_executive.py -L <domain_file> <problem_file>
-* for execute phase - python my_executive.py -E <domain_file> <problem_file>
+* For learning phase - python my_executive.py -L <domain_file> <problem_file>
+* For execute phase - python my_executive.py -E <domain_file> <problem_file>
